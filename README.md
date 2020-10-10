@@ -1,2 +1,2 @@
 # Python
-Upload these are needed.
+Upload these are needed to code in python.
